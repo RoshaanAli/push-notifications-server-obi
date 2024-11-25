@@ -20,6 +20,10 @@ app.listen(3000, () => {
     console.log(`Server started on port 3000`);
 });
 
+router.get("/test",(req,res)=>{
+    res.status(200).json({ message: "its working" });
+})
+
 router.post("/register", (req, res) => {
     console.log(req.body, "Register")
     if (req.body.type == "pro") {
