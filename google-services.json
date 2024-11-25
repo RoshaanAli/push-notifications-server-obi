@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934804997644",
+    "project_id": "notification-d490f",
+    "storage_bucket": "notification-d490f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934804997644:android:ae9c8d54d3c88d0b949029",
+        "android_client_info": {
+          "package_name": "com.project_obi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKHnuTElM1q_1MU-y_Lvb5hmowOHPT_QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
